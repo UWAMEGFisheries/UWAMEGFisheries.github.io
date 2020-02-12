@@ -8,7 +8,7 @@ image:
 ---
 <h2 class="post-title"> </h2>
 <div class="tiles">
-{% for post in site.categories.available-projects %}
+{% for post in site.categories.projects %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
