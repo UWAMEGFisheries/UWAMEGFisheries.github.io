@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Spatial usage of the Australian Marine Parks network"
-categories: projects
+categories: 1projects
 tags: [projects]
 image:
   feature: 
