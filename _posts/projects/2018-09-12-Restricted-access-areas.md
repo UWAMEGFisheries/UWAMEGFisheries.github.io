@@ -21,6 +21,7 @@ Uniquely, this UWA-BHP research collaboration will enable information about fish
 This scholarship includes $30,000 stipend per annum (UWA-BHP University Postgraduate Award) and a BHP top up of $12,222 per annum. In addition there is a total research budget of $283,000 available via the UWA-BHP collaboration, to cover research costs, including vessel hire.
 
 UWA-BHP Postgraduate Research Scholarship
+<img src='/images/5x8_shark.png' align='right' width="350" hspace="20" vspace="10">
 
 # Study area
 Ningaloo and Pilbara region, offshore.
