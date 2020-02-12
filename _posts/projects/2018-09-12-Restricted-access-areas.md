@@ -9,6 +9,7 @@ image:
   thumb: square-decomissioning.png
 ---
 # Description
+<img src='/images/square-decomissioning.png' align='right' width="350" hspace="20" vspace="10">
 UWA and BHP have formed a collaboration with the objective of investigating the potential biodiversity and societal benefits of restricted access marine areas, where some fishing activities are limited. In this project we will compare restricted areas around operational offshore oil and gas infrastructure with those located in marine parks. 
 
 The recent report produced by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES 2019) report, highlighted that we are facing the loss of large parts of global biodiversity, including more than 1 million species, in the next 15 years. The continued loss of biodiversity undermines ecosystems and, ultimately, human well-being and survival. The report found overwhelming evidence that human activities are behind nature’s decline. These activities include climate change, pollution, and overfishing.
