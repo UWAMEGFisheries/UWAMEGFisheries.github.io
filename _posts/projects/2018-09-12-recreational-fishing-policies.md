@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Designing recreational fishing policies using representative fisher preferences"
-categories: projects
+categories: 1projects
 tags: [projects]
 image:
   feature: 
