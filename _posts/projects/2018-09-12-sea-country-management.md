@@ -2,7 +2,7 @@
 layout: article
 title: "Developing Sea Country management protocols through combining traditional ecological knowledge of Indigenous Australians and Western Science"
 categories: projects
-tags: [projects]
+tags: [1projects]
 image:
   feature: 
   teaser: square-sea-country.jpg
