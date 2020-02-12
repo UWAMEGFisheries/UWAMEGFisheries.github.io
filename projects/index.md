@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: projects
+permalink: available-projects
 title: "Potential Research Projects"
 excerpt: "For PhD, Masters or Honours"
 image:
