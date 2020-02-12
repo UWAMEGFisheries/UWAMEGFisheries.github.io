@@ -1,8 +1,8 @@
 ---
 layout: article
-title: "Decommissioning"
-categories: research
-tags: [research]
+title: "Biodiversity and Societal Benefits of Restricted Access Areas"
+categories: projects
+tags: [projects]
 image:
   feature: 
   teaser: square-decomissioning.png
