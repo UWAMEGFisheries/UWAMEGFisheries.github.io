@@ -8,7 +8,6 @@ image:
   teaser: square-decomissioning.png
   thumb: square-decomissioning.png
 ---
-# Description
 <img src='/images/square-decomissioning.png' align='right' width="350" hspace="20" vspace="10">
 UWA and BHP have formed a collaboration with the objective of investigating the potential biodiversity and societal benefits of restricted access marine areas, where some fishing activities are limited. In this project we will compare restricted areas around operational offshore oil and gas infrastructure with those located in marine parks. 
 
