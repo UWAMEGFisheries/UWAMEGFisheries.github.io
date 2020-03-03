@@ -9,8 +9,6 @@ image:
   thumb: square-marineparks.png
 ---
 
-# Description
-
 Representative, replicated and adequate networks of no-take marine reserves within Marine Parks are a good idea for marine conservation. However, a consistent message from marine park managers has been that the policy and planning debate is unsupported due to a lack of rigorous methods for quantifying the socio-economic impacts and benefits of no-take zones. 
 
 To address this we are establishing socio-economic benchmarks of Australia’s newly gazetted Australian Marine Parks and all existing state marine park systems, led by postdoctoral fellow, Matt Navarro through the National Environmental Science Programme: Marine Biodiversity Hub. Our research has already documented broad support for no-take zones in marine parks amongst recreational fishers, contradicting messages from recreational fishing groups. We have also hosted a series of regional workshops, leading a national conversation on the role of socio-economic assessment to inform marine park planning, evaluation and the policy debate.
