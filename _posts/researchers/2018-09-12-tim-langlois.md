@@ -36,7 +36,7 @@ School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:tim.langlois@uwa.edu.au"> tim.langlois@uwa.edu.au</a><br>
-<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 4733</p>
+<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 7403</p>
 
 ## Publications
 <img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com/citations?user=jEiHZ0cAAAAJ&hl=en">Google Scholar</a><br>
@@ -50,7 +50,7 @@ Orginally from Jersey in the Channel Islands my first jobs were as deckhand on a
 
 I went to high school at [Atlantic College](https://www.atlanticcollege.org "Atlantic College") in South Wales and graduated in Marine Biology and Oceanography with Honours from Bangor University in North Wales. 
 
-I worked in Chile at the Universidad de la Santisima Concepcion for my Honours project on macroinvertebrate fauna associated with museel beds. 
+I worked in Chile at the Universidad de la Santisima Concepcion for my Honours project on macroinvertebrate fauna associated with mussel beds. 
 
 After university I worked for 6 months with the Royal Geographical Society in Mauritius on the Shoals of Capricorn marine research program in the St. Brandon Archipelago and on the island of Rodrigues. I then worked as a research assistant at the [Leigh Marine Laboratory](http://www.marine.auckland.ac.nz/en/about/our-institute/leigh-marine-laboratory.html "Leigh Marine Laboratory") of the University of Auckland where I completed my PhD thesis on how reef associated predators (rock lobster and pink snapper) feed on soft sediment fauna, supervised by [Marti Anderson](http://www.massey.ac.nz/massey/expertise/profile.cfm?stref=204040 "Marti Anderson") and [Russ Babcock](https://theconversation.com/profiles/russ-babcock-126401 "Russ Babcock"). I also worked with [Bill Ballantine](https://www.nzgeo.com/stories/no-take-zone/ "Bill Ballantine") who was responsible for establishing the first no-take marine reserves in New Zealand. 
 
