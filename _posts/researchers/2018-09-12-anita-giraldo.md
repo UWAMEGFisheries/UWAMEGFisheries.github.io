@@ -1,18 +1,17 @@
 ---
 layout: article
-title: "Tim Langlois"
+title: "Ana Giraldo"
 categories: researchers
 excerpt: "Research Fellow"
 tags: [researcher]
 image:
   feature: 
-  teaser: square-tim-langlois-profile.png
-  thumb: square-tim-langlois-profile.png
+  teaser: square-ana-giraldo-profile.png
+  thumb: square-ana-giraldo-profile.png
 ---
 ## Research
 
-<img class="philprofile" src='/images/square-anita-giraldo-profile.png' align='right' width="350" hspace="20" vspace="10">
-
+<img class="philprofile" src='/images/square-ana-giraldo-profile.png' align='right' width="350" hspace="20" vspace="10">
 
 
 ## Teaching
