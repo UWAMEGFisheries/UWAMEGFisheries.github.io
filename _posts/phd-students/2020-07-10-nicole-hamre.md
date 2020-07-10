@@ -9,7 +9,7 @@ image:
   teaser: square-nicole-hamre-profile.png
   thumb: square-nicole-hamre-profile.png
 ---
-## The biodiversity and societal benefits of restricted access areas
+## Bioeconomic Modelling of the Biodiversity and Societal Benefits of Restricted Access Areas
 <img src='/images/square-nicole-hamre-profile.png' align='right' width="350" hspace="20" vspace="10">
 Various zones in marine parks can provide biodiversity and societal benefits. Restricted access areas around oil and gas infrastructure have the potential to also contribute to biodiversity and societal benefits. To understand the potential benefits of restricted access areas, we need to understand how marine users values interact with marine ecosystem processes. These interactions can be complex and the results non-intuitive making marine management decisions challenging. My project aims to provide bio-economic models to understand the potential biodiversity and societal benefits of restricted access areas using agent-based and economic utility models.
 
