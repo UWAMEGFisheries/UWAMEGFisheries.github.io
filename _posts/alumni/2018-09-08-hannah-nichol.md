@@ -3,7 +3,7 @@ layout: article
 title: "Hannah Nichol"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: "Optimising methodologies for monitoring change in benthic assemblages in Geographe Bay, Western Australia"
+excerpt: "Optimising methodologies for monitoring change in benthic assemblages in Geographe Bay, Western Australia (2020)"
 permalink: students/hannah-nichol
 image:
   feature: 
