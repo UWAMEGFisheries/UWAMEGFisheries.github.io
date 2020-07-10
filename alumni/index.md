@@ -27,6 +27,7 @@ image:
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>b<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Honours Completions
@@ -35,7 +36,6 @@ image:
 	{% include alumni-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
