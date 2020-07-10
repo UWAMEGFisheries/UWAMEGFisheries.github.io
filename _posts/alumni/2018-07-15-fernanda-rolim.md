@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Fernanda Rolim"
-categories: phd-students
-tags: [phd-students]
+categories: phd-alumni
+tags: [phd-alumni]
 excerpt: "The effects of marine protected areas on the fish fauna in Brazil: an assessment using stereo-videos "
 image:
   feature: 
