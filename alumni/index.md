@@ -15,7 +15,7 @@ image:
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ### Masters Completions
 <div class="tiles">
@@ -28,8 +28,7 @@ image:
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>b<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### Honours Completions
 <div class="tiles">
@@ -38,8 +37,6 @@ image:
 {% endfor %}
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 ### Staff Alumni
 <div class="tiles">
