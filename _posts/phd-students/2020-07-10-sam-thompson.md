@@ -3,13 +3,13 @@ layout: article
 title: "Sam Thompson"
 categories: phd-students
 tags: [phd-students]
-excerpt: "Biodiversity and societal benefits of restricted access areas"
+excerpt: "Biodiversity and Societal Benefits of Restricted Access Areas"
 image:
   feature: 
   teaser: square-sam-thompson-profile.png
   thumb: square-sam-thompson-profile.png
 ---
-## Biodiversity and societal benefits of restricted access areas
+## Biodiversity and Societal Benefits of Restricted Access Areas
 <img src='/images/square-sam-thompson-profile.png' align='right' width="350" hspace="20" vspace="10">
 Marine parks and protected areas can provide biodiversity and societal benefits. Restricted access areas around oil and gas infrastructure have the potential to also contribute to biodiversity and societal benefits. To better understand the value of such areas, my project will aim to accurately define population estimates for protected, threatened and endangered species, connectivity of habitat forming species and associations of key-fishery species. My project aims to provide comparable biodiversity data from MPAs and restricted access areas through a variety of methods including Stereo-BRUV, ROV and eDNA. Integrating historical data with this multidisciplinary approach, I hope to provide unique datasets and time-series across a range of spatial and temporal scales to monitor, understand and predict ecosystem structure, thus informing marine policy and regulation development.
 

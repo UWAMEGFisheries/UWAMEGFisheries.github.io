@@ -3,7 +3,7 @@ layout: article
 title: "Anna Cresswell"
 categories: phd-alumni
 tags: [phd-alumni]
-excerpt: "Disturbance dynamics in coral reef ecosystems: heat waves, cyclones and fishing pressure at Ningaloo Reef (2020)"
+excerpt: "Disturbance dynamics in coral reef ecosystems: heat waves, cyclones and fishing pressure at Ningaloo Reef"
 image:
   feature: 
   teaser: square-anna-cresswell-profile.png
