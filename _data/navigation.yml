@@ -20,10 +20,10 @@
   url: adjuncts
   excerpt: "Current Adjuncts"
   image: 5x8_Todd.jpg
-- title: "Join Us"
-  url: available-projects
-  excerpt: "Available projects"
-  image: 5x8_shark.png
+#- title: "Join Us"
+#  url: available-projects
+#  excerpt: "Available projects"
+#  image: 5x8_shark.png
 #- title: "Contact"
 #  url: contact
 #  excerpt: "Get in touch"
