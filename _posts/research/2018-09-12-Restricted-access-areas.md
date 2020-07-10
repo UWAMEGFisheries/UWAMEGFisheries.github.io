@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Biodiversity and Societal Benefits of Restricted Access Areas (PhD)"
-categories: projects 
-tags: [projects]
+categories: research 
+tags: [research]
 image:
   feature: 
   teaser: square-decomissioning.png
