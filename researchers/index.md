@@ -6,11 +6,18 @@ excerpt: " <br> <br>"
 image:
   feature: 20110808_077.jpg
 ---
-<h2 class="post-title"> </h2>
+### Researhers
 <div class="tiles">
 {% for post in site.categories.researchers %}
 	{% include post-grid.html %}
 {% endfor %}
+</div><!-- /.tiles -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
+
+### Staff
+<div class="tiles">
 {% for post in site.categories.staff %}
 	{% include post-grid.html %}
 {% endfor %}
