@@ -6,7 +6,7 @@ excerpt: " <br> <br>"
 image:
   feature: 20110808_077.jpg
 ---
-### Researhers
+### Researchers
 <div class="tiles">
 {% for post in site.categories.researchers %}
 	{% include researchers-grid.html %}
