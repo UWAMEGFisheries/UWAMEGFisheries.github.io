@@ -9,7 +9,7 @@ image:
 ### Researhers
 <div class="tiles">
 {% for post in site.categories.researchers %}
-	{% include post-grid.html %}
+	{% include researchers-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -19,6 +19,6 @@ image:
 ### Staff
 <div class="tiles">
 {% for post in site.categories.staff %}
-	{% include post-grid.html %}
+	{% include researchers-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
