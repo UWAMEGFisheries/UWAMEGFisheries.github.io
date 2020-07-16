@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Emily Lester"
-categories: phd-students
-tags: [phd-students]
-excerpt: "Behaviourally mediated trophic cascades"
+categories: phd-alumni
+tags: [phd-alumni]
+excerpt: "Behaviourally mediated trophic cascades 2020"
 image:
   feature: 
   teaser: square-emily-lester-profile.png
