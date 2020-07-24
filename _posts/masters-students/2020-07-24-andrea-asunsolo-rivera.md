@@ -3,14 +3,14 @@ layout: article
 title: "Andrea Asunsolo Rivera"
 categories: masters-students
 tags: [masters-students]
-excerpt: "A cost-effective analysis and characterization of fish assemblage in Geographe Bay, South-Western Australia"
+excerpt: "Quantifying predator threat on mesopredator fish behaviour on a coral reef at Lizard Island, Great Barrier Reef"
 permalink: /students/andrea-asunsolo-rivera
 image:
   feature: 
   teaser: square-andrea-asunsolo-rivera-profile.png
   thumb: square-andrea-asunsolo-rivera-profile.png
 ---
-## A cost-effective analysis and characterization of fish assemblage in Geographe Bay, South-Western Australia
+## Quantifying predator threat on mesopredator fish behaviour on a coral reef at Lizard Island, Great Barrier Reef
 <img src='/images/square-andrea-asunsolo-rivera-profile.png' align='right' width="350" hspace="20" vspace="10">
 
 The behavioural response of prey to predator presence can elicit anti-predator behaviours, which have the capacity to affect energy intake of prey and cause cascading-effects to lower trophic levels of ecosystems. These non-lethal interactions have been widely studied in terrestrial ecosystems, but only recently gained attention in the marine realm. Observing these interactions, particularly in marine ecosystems, has proven challenging. However, advances in technology like the use of underwater cameras has allowed scientists to remotely document predator-prey interactions. Flight initiation distance (FID; distance prey allow an oncoming threat to approach before fleeing), - is a common metric used to quantifiably measure anti-predator behaviour caused by predator threat. However, marine studies have only measured FID as a response to diver-threat and the magnitude of this response in the presence of natural predators (e.g. sharks) is unknown. In this study we intend to quantify the behavioural impact of predators to mesopredatory fish using remote underwater stereo-video systems (RUVS). Using a life-size shape-model of a blacktip reef-shark, Carcharhinus melanopterus, a diver, and three non-threatening shape-controls (turtle shape-model, PVC-pipe and perspex), we will measure FID in response to these models to quantify anti-predatory behavior of mesopredatory fish in shallow reefs surrounding Lizard Island, Great Barrier Reef. This study will be the first to compare anti-predatory behavior between a natural (reef-shark shape-model) and anthropogenic (diver) predator. We hypothesize similar antipredatory response in mesopredators to both anthropogenic and natural threats. Expecting a significantly lower response to the non-threatening shape-controls in comparison to the diver and shark-model.
