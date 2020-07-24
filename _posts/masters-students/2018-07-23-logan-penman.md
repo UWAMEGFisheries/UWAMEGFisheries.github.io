@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "Logan Penman"
 categories: masters-students
