@@ -1,4 +1,4 @@
-﻿---
+---
 layout: article
 title: "Andrea Asunsolo Rivera"
 categories: masters-students
