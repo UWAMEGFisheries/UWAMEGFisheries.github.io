@@ -7,8 +7,8 @@ excerpt: "A cost-effective analysis and characterization of fish assemblage in G
 permalink: /students/andrea-asunsolo-rivera
 image:
   feature: 
-  teaser: square-andrea-asunsolo-rivera.png
-  thumb: square-andrea-asunsolo-rivera.png
+  teaser: square-andrea-asunsolo-rivera-profile.png
+  thumb: square-andrea-asunsolo-rivera-profile.png
 ---
 ## A cost-effective analysis and characterization of fish assemblage in Geographe Bay, South-Western Australia
 <img src='/images/square-andrea-asunsolo-rivera-profile.png' align='right' width="350" hspace="20" vspace="10">
