@@ -31,7 +31,4 @@ School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009</p>
 
 
-
-
-Chat(Directory)
-21student.uwa.edu.au">19604037@student.uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:21599013@student.uwa.edu.au">21599013@student.uwa.edu.au</a><br>
