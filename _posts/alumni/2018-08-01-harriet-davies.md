@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Harriet Davies"
-categories: researchers
+categories: staff-alumni
 tags: [researchers]
 excerpt: "Postdoctoral researcher"
 image:
