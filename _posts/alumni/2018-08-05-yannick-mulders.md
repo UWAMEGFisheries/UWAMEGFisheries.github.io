@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Yannick Mulders"
-categories: phd-students
-tags: [phd-students]
+categories: phd-alumni
+tags: [phd-alumni]
 tab: students
 image:
   feature: 
