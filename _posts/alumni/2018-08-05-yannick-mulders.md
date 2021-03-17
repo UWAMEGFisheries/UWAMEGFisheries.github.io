@@ -3,7 +3,7 @@ layout: article
 title: "Yannick Mulders"
 categories: phd-alumni
 tags: [phd-alumni]
-tab: students
+excerpt: "Functional redundancy of seaweed canopies (2020)"
 image:
   feature: 
   teaser: square-yannick-mulders-profile.png
