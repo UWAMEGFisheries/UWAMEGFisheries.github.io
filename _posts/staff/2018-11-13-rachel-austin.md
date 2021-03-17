@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Research and Technical Assistant"
 image:
   feature: 
-  teaser: square-rachel-austin.png
-  thumb: square-rachel-austin.png
+  teaser: square-rachel-austin2.png
+  thumb: square-rachel-austin2.png
 ---
 ## Role
-<img src='/images/square-rachel-austin.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-rachel-austin2.png' align='right' width="350" hspace="20" vspace="10">
 My main role for this lab is conducting fieldwork, BRUV and BOSS video analyses, species identification, and associated tasks
 
 ## About me
