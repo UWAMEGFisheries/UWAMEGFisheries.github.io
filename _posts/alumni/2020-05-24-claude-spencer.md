@@ -11,7 +11,7 @@ image:
   thumb: square-claude-spencer.png
 ---
 ## Assemblage feeding rates of scraping herbivorous fishes: Local drivers of abundance can be more important than temperature on reefs undergoing tropicalization
-<img src='/images/square-andrea-asunsolo-rivera-profile.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-claude-spencer.png' align='right' width="350" hspace="20" vspace="10">
 
 My research focuses on warm-water Scarid parrotfishes and will investigate how their assemblages changes along the West Australian coastline. This is in response to the global trend of increasing ocean temperatures facilitating tropical species to inhabit higher latitudes and in greater abundances. The research will investigate both size structure and feeding rates of parrotfish assemblages, and will compare the differences between native tropical reefs and novel tropicalised temperate reefs. This research will aim to highlight important new interactions that may occur due to the trend of increasing ocean temperatures, and will provide information that can help with the effective management of valuable temperate reefs in a warmer future.  
 
