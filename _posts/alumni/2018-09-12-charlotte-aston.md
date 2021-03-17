@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Charlotte Aston"
-categories: masters-students
-tags: [masters-students]
-excerpt: "Optimising the long-term monitoring of fish biodiversity within no-take zones across State and Commonwealth managed Marine Parks"
+categories: masters-alumni
+tags: [masters-alumni]
+excerpt: "Optimising the long-term monitoring of fish biodiversity within no-take zones across State and Commonwealth managed Marine Parks (2020)"
 permalink: /students/charlotte-aston
 image:
   feature: 
