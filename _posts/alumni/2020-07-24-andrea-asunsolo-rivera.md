@@ -3,7 +3,7 @@ layout: article
 title: "Andrea Asunsolo Rivera"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: "Quantifying predator threat on mesopredator fish behaviour on a coral reef at Lizard Island, Great Barrier Reef"
+excerpt: "Quantifying predator threat on mesopredator fish behaviour on a coral reef at Lizard Island, Great Barrier Reef (2020)"
 permalink: /students/andrea-asunsolo-rivera
 image:
   feature: 
