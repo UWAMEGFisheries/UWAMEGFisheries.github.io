@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Ana Giraldo"
-categories: researchers
+categories: staff-alumni
 excerpt: "Research Fellow"
-tags: [researcher]
+tags: [staff-alumni]
 image:
   feature: 
   teaser: square-ana-giraldo-profile.png
