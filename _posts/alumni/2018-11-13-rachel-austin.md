@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Rachel Austin"
-categories: staff
-tags: [staff]
+categories: staff-alumni
+tags: [staff-alumni]
 excerpt: "Research and Technical Assistant"
 image:
   feature: 
