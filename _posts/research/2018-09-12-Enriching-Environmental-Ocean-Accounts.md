@@ -36,4 +36,4 @@ For Environmental Accounts to inform decisions, they need to be predictive, not 
 
 <br>
 
-<img src='/images/Enriching-Environmental-Ocean-Accounts_logo.png' align='centre' width="300" hspace="20" vspace="10">
+<img src='/images/Enriching-Environmental-Ocean-Accounts_logo.png' align='centre' width="350" hspace="20" vspace="10">
