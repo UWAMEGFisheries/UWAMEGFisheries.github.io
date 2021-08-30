@@ -24,7 +24,7 @@ Prof Charitha Pattiaratchi (OGS), [Dr Tim Langlois](https://uwamegfisheries.gith
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> School of Biological Sciences<br>
 The University of Western Australia (M092)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:jessica.kolbusz@research.uwa.edu.au">jessica.kolbusz@research.uwa.edu.au</a><br>
 <img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 8790<br>
