@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Salvador Zarco Perello"
-categories: phd-students
-tags: [phd-students]
-excerpt: "Persistence and impact of tropical herbivorous fish on temperate ecosystems"
+categories: phd-alumni
+tags: [phd-alumni]
+excerpt: "Persistence and impact of tropical herbivorous fish on temperate ecosystems (2021)"
 image:
   feature: 
   teaser: square-salvador-zarco-perello-profile.png
