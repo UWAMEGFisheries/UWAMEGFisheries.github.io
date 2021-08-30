@@ -23,7 +23,7 @@ I previously  attended UWA as an undergraduate student in 2011-2013 in the Marin
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:michael.brooker@research.uwa.edu.au"> michael.brooker@research.uwa.edu.au</a><br>
 <img src='/images/icons/phone-solid.svg' width="15px"> +614 3364 4656<br>
