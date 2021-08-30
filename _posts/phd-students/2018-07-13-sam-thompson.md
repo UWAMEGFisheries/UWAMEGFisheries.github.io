@@ -22,7 +22,7 @@ In 2014, I graduated with a bachelor of Science with a first class honours in bi
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:sam.thompson@research.uwa.edu.au"> sam.thompson@research.uwa.edu.au</a><br>
 
