@@ -5,10 +5,9 @@ categories: research
 tags: [research]
 image:
   feature: 
-  teaser: square_shark.png
-  thumb: square_shark.png
+  teaser: Enriching-Environmental-Ocean-Accounts_1.png
+  thumb: Enriching-Environmental-Ocean-Accounts_1.png
 ---
-<img src='/images/square_shark.png' align='right' width="350" hspace="20" vspace="10">
 Healthy ecosystems provide a diversity of benefits to societal wellbeing and our way of life. Some of these benefits are obvious like providing fish for food. Others are more subtle and under-appreciated, including the role ecosystems play in regulating the Earth's climate. When we make decisions that impact ecosystems, we risk jeopardizing these benefits, and in the long run, our own wellbeing. 
 
 Environmental Accounts, or Ocean Accounts when applied to the oceans, are a way of making the benefits of healthy ecosystems fully visible to decision makers. At their heart, they are about applying the principles of accounting to the environment. They provide transparency about the value of our natural assets, and how impacting ecosystems affects us.   
