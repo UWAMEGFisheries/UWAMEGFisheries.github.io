@@ -34,3 +34,4 @@ Projecting into the future
 
 For Environmental Accounts to inform decisions, they need to be predictive, not just retrospective. We are developing bio-economic modeling techniques to support a predictive accounting framework for key recreational ecosystem services. This approach will allow us to run scenarios and predict how altering management, including restricted access areas, affects marine ecosystems, and the recreational benefits derived from them.
 
+<img src='/images/Enriching-Environmental-Ocean-Accounts_logo.png' align='left' width="150" hspace="20" vspace="10">
