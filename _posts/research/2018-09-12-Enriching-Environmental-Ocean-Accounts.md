@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Biodiversity and Societal Benefits of Restricted Access Areas (PhD)"
+title: "Enriching Ocean Accounts project"
 categories: research 
 tags: [research]
 image:
@@ -9,10 +9,25 @@ image:
   thumb: square_shark.png
 ---
 <img src='/images/square_shark.png' align='right' width="350" hspace="20" vspace="10">
-UWA and BHP have formed a collaboration with the objective of investigating the potential biodiversity and societal benefits of restricted access marine areas, where some fishing activities are limited. In this project we will compare restricted areas around operational offshore oil and gas infrastructure with those located in marine parks. 
+Healthy ecosystems provide a diversity of benefits to societal wellbeing and our way of life. Some of these benefits are obvious like providing fish for food. Others are more subtle and under-appreciated, including the role ecosystems play in regulating the Earth's climate. When we make decisions that impact ecosystems, we risk jeopardizing these benefits, and in the long run, our own wellbeing. 
 
-The recent report produced by the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES 2019) report, highlighted that we are facing the loss of large parts of global biodiversity, including more than 1 million species, in the next 15 years. The continued loss of biodiversity undermines ecosystems and, ultimately, human well-being and survival. The report found overwhelming evidence that human activities are behind nature’s decline. These activities include climate change, pollution, and overfishing.
+Environmental Accounts, or Ocean Accounts when applied to the oceans, are a way of making the benefits of healthy ecosystems fully visible to decision makers. At their heart, they are about applying the principles of accounting to the environment. They provide transparency about the value of our natural assets, and how impacting ecosystems affects us.   
 
-Active oil and gas facilities in the offshore environment have a defined cautionary areas surrounding them, typically with limitations on access. Restrictions on access to these subsea development areas can exist for decades, potentially protecting associated fish and biota from fishing and other disturbances and potentially creating the same biodiversity conservation value as found in no-take zones in marine parks. Researchers rarely gain access to these “de facto” no-take zones due to safety and operational concerns. Directly comparing fish and biotic assemblages around and on offshore infrastructure, outside and inside de facto no-take areas, with nearby no-take and open-access areas in natural environments within marine parks (e.g. Ningaloo Marine Park) will increase our understanding of the role of offshore infrastructure and no-take and/or restricted access areas in biodiversity conservation, particularly for globally rare and protected marine species. 
+In 2020, Australia joined 14 member nations to the High Level Panel on a Sustainable Ocean Economy committing to develop complete national ocean accounts to inform decision-making. Since then, Australia and other member nations to the High Level Panel have started devising approaches for the national roll-out of Ocean Accounts.  
 
-Uniquely, this UWA-BHP research collaboration will enable information about fish populations and benthic habitats to be collected from within the cautionary area of operational oil and gas infrastructure.
+Enriching Ocean Accounts is a partnership between BHP and UWA to improve the quality and policy-readiness of environmental accounts in Australia and Internationally. The project will focus on application of environmental accounting to the oceans, but many of the lessons learned will be applicable to terrestrial accounts. 
+
+What we are doing:
+
+Setting strategic visions for Ocean Accounts
+
+Maximising the impact of Ocean Accounts requires considering  end-user needs and the data and technology constraints. We are conducting one-on-one interviews with marine managers and decision makers across Australian government and industry to discover opportunities for incorporating Ocean Accounts into  day-to-day practice. Insights will be combined with an understanding of current marine data and technology constraints to set a strategic vision for the future of Ocean Accounts in Australia and Internationally.
+
+Developing New technologies 
+
+Producing cost-effective and accurate estimates of natural assets is fundamental to the success of Ocean Accounts. We are trialling a range of new and emerging technologies to inform Ocean Accounts including new 360 degree underwater video systems for monitoring fish and habitats, eDNA methods for detecting rare and endangered species, and sophisticated sampling designs to ensure results are account ready. These methods will be deployed to better understand the biodiversity in and around restricted access marine areas.
+
+Projecting into the future
+
+For Environmental Accounts to inform decisions, they need to be predictive, not just retrospective. We are developing bio-economic modeling techniques to support a predictive accounting framework for key recreational ecosystem services. This approach will allow us to run scenarios and predict how altering management, including restricted access areas, affects marine ecosystems, and the recreational benefits derived from them.
+
