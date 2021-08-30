@@ -22,7 +22,7 @@ In 2018, I graduated with an undergraduate Master of Science with a first class 
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:nicole.hamre@research.uwa.edu.au"> nicole.hamre@research.uwa.edu.au</a><br>
 
