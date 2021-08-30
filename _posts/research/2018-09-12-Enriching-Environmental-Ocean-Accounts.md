@@ -5,8 +5,8 @@ categories: research
 tags: [research]
 image:
   feature: 
-  teaser: Enriching-Environmental-Ocean-Accounts_1.png
-  thumb: Enriching-Environmental-Ocean-Accounts_1.png
+  teaser: Enriching-Environmental-Ocean-Accounts_1.PNG
+  thumb: Enriching-Environmental-Ocean-Accounts_1.PNG
 ---
 Healthy ecosystems provide a diversity of benefits to societal wellbeing and our way of life. Some of these benefits are obvious like providing fish for food. Others are more subtle and under-appreciated, including the role ecosystems play in regulating the Earth's climate. When we make decisions that impact ecosystems, we risk jeopardizing these benefits, and in the long run, our own wellbeing. 
 
@@ -18,17 +18,17 @@ Enriching Ocean Accounts is a partnership between BHP and UWA to improve the qua
 
 <h3>What we are doing:</h3>
 
-<img src='/images/Enriching-Environmental-Ocean-Accounts_1.png' align='left' width="250" hspace="20" vspace="10">
+<img src='/images/Enriching-Environmental-Ocean-Accounts_1.PNG' align='left' width="250" hspace="20" vspace="10">
 <h4>Setting strategic visions for Ocean Accounts</h4>
 
 Maximising the impact of Ocean Accounts requires considering  end-user needs and the data and technology constraints. We are conducting one-on-one interviews with marine managers and decision makers across Australian government and industry to discover opportunities for incorporating Ocean Accounts into  day-to-day practice. Insights will be combined with an understanding of current marine data and technology constraints to set a strategic vision for the future of Ocean Accounts in Australia and Internationally.
 
-<img src='/images/Enriching-Environmental-Ocean-Accounts_2.png' align='left' width="250" hspace="20" vspace="10">
+<img src='/images/Enriching-Environmental-Ocean-Accounts_2.PNG' align='left' width="250" hspace="20" vspace="10">
 <h4>Developing New technologies</h4>
 
 Producing cost-effective and accurate estimates of natural assets is fundamental to the success of Ocean Accounts. We are trialling a range of new and emerging technologies to inform Ocean Accounts including new 360 degree underwater video systems for monitoring fish and habitats, eDNA methods for detecting rare and endangered species, and sophisticated sampling designs to ensure results are account ready. These methods will be deployed to better understand the biodiversity in and around restricted access marine areas.
 
-<img src='/images/Enriching-Environmental-Ocean-Accounts_3.png' align='left' width="250" hspace="20" vspace="10">
+<img src='/images/Enriching-Environmental-Ocean-Accounts_3.PNG' align='left' width="250" hspace="20" vspace="10">
 <h4>Projecting into the future</h4>
 
 For Environmental Accounts to inform decisions, they need to be predictive, not just retrospective. We are developing bio-economic modeling techniques to support a predictive accounting framework for key recreational ecosystem services. This approach will allow us to run scenarios and predict how altering management, including restricted access areas, affects marine ecosystems, and the recreational benefits derived from them.
