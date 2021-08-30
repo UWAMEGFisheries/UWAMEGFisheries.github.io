@@ -18,7 +18,7 @@ Enriching Ocean Accounts is a partnership between BHP and UWA to improve the qua
 
 <h3>What we are doing:</h3>
 
-<img src='/images/Enriching-Environmental-Ocean-Accounts_1.PNG' align='left' width="275" hspace="20" vspace="10">
+<img src='/images/Enriching-Environmental-Ocean-Accounts_1rect.png' align='left' width="275" hspace="20" vspace="10">
 <h5>Setting strategic visions for Ocean Accounts</h5>
 
 Maximising the impact of Ocean Accounts requires considering  end-user needs and the data and technology constraints. We are conducting one-on-one interviews with marine managers and decision makers across Australian government and industry to discover opportunities for incorporating Ocean Accounts into  day-to-day practice. Insights will be combined with an understanding of current marine data and technology constraints to set a strategic vision for the future of Ocean Accounts in Australia and Internationally.
