@@ -19,7 +19,7 @@ I grew up in Esperance and completed my Bachelor of Science in Marine Science at
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+35 Stirling Highway, Crawley WA 6009
 
-<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:00104220@uwa.edu.au"> 00104220@uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:claude.spencer@uwa.edu.au"> claude.spencer@uwa.edu.au</a><br>
 
