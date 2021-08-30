@@ -24,10 +24,10 @@ I am a multi-disciplinary marine scientist interested in integrating ecological,
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
 School of Biological Sciences (M470)<br>
-35 Stirling Highway, Crawley WA 6009</p>
+35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:matthew.navarro@uwa.edu.au"> matthew.navarro@uwa.edu.au</a><br>
-<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 4364</p>
+<img src='/images/icons/phone-solid.svg' width="15px"> +618 6488 4364
 
 ## Publications
 <img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com/citations?user=PgIZ0RAAAAAJ&hl=en">Google Scholar</a><br>
