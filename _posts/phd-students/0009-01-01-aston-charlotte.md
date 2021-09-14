@@ -20,7 +20,7 @@ Originally from London, born to Swedish and English parents, spending time in th
 ## Supervisors
 [Dr. Tim Langlois](https://marineecology.io/researchers/tim-langlois/ "Tim Langlois")
 [Dr. Matt Navarro](https://marineecology.io/researchers/matthew-navarro/)
-[Professor Gary Kendrick]
+Professor Gary Kendrick
 
 
 ## Contact
