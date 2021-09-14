@@ -18,8 +18,8 @@ The management of World Heritage Areas (WHAs) must balance protection and conser
 Originally from London, born to Swedish and English parents, spending time in the ocean was something I only really got to do on holiday. After coming to UWA in 2017 intending only to stay for my year abroad, I fell in love with marine environment, and I transferred university. I graduated from UWA with a Bachelor of Science majoring in Marine Biology in 2018 and a Masters in Marine Science in 2019. My Masters research focused on the Ningaloo Marine Park and I’m really excited to be continuing my research in WA’s incredible World Heritage Areas. I’m hoping my PhD will be able to contribute to the long-term protection of these unique areas and teach me interdisciplinary skills I can use to contribute improving the conservation of our marine environments into the future
 
 ## Supervisors
-[Dr. Tim Langlois](https://marineecology.io/researchers/tim-langlois/ "Tim Langlois")
-[Dr. Matt Navarro](https://marineecology.io/researchers/matthew-navarro/)
+[Dr. Tim Langlois](https://marineecology.io/researchers/tim-langlois/ "Tim Langlois"), 
+[Dr. Matt Navarro](https://marineecology.io/researchers/matthew-navarro/) &
 Professor Gary Kendrick
 
 
