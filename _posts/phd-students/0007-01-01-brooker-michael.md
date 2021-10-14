@@ -27,5 +27,6 @@ School of Biological Sciences (M470)<br>
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:michael.brooker@research.uwa.edu.au"> michael.brooker@research.uwa.edu.au</a><br>
 <img src='/images/icons/phone-solid.svg' width="15px"> +614 3364 4656<br>
-<img src='/images/icons/google-brands.svg' width="15px"> <a href="http://www.linkedin.com/in/michaelabrooker">LinkedIn</a><br>
+<img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com/citations?user=pxEV6jcAAAAJ&hl=en">Google Scholar</a><br>
+ <img src='/images/icons/linkedin.png' width="15px"> <a href="http://www.linkedin.com/in/michaelabrooker"> Linkedin</a><br>
 <img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Michael_Brooker5"> ResearchGate</a><br>
