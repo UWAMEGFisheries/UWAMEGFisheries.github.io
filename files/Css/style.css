@@ -1,0 +1,75 @@
+body {
+	font-family: Arial, helvetica, sans-serif;
+	font-size: 16px;
+	margin: 0px;
+	padding: 0px;
+	background-color: rgb(70, 207, 175);
+	color: black;
+}
+
+#description {
+	text-align: center;
+}
+
+#title {
+	background-color: rgb(70, 207, 175);
+	color: black;
+	text-align: center;
+	width: 100%;
+	margin: auto;
+}
+
+.container {
+	width: 50%;
+	margin: auto;
+	background-color: white;
+	color: black;
+	padding: 15px;
+}
+
+#survey-form {
+	text-align: center;
+}
+
+.row-tab {
+	display: block;
+	padding-bottom: 20px;
+}
+
+.label-tab {
+	display: inline-block;
+	width: 44%;
+	text-align: right;
+	vertical-align: top;
+}
+
+.input-tab {
+	display: inline-block;
+	width: 54%;
+	text-align: left;
+}
+
+.select-tab {
+	display: inline-block;
+	width: 54%;
+	text-align: left;
+}
+
+#select-box {
+	padding: 5px 0px;
+}
+
+.form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
+.submit-button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  background: var(--color-green);
+  color: inherit;
+  border-radius: 2px;
+  cursor: pointer;
+}
