@@ -3,7 +3,7 @@ layout: article
 title: "Claude Spencer"
 categories: staff
 tags: [staff]
-excerpt: "Research Assistant"
+excerpt: "Research Officer"
 image:
   feature: 
   teaser: square-claude-spencer.png
