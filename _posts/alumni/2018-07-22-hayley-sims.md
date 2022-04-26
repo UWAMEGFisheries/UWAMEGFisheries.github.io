@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Hayley Sims"
-categories: masters-students
-tags: [masters-students]
-excerpt: "A cost-benefit analysis of optimum sampling designs for ecological monitoring in West Australian Marine Parks."
+categories: masters-alumni
+tags: [masters-alumni]
+excerpt: "A cost-benefit analysis of optimum sampling designs for ecological monitoring in West Australian Marine Parks (2020)."
 permalink: /students/hayley-sims
 image:
   feature: 
