@@ -3,7 +3,7 @@ layout: article
 title: "Brooke Gibbons"
 categories: staff
 tags: [staff]
-excerpt: "Research Assistant"
+excerpt: "Senior Research Officer"
 image:
   feature: 
   teaser: brooke-gibbons.png
