@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Michael Brooker"
-categories: phd-students
-excerpt: "Recruitment Dynamics of Western Rock Lobster: Improving Knowledge of the Juvenile Life History of <i>Panulirus cygnus<i/>."
-tags: [phd-students]
+categories: phd-alumni
+excerpt: "Recruitment Dynamics of Western Rock Lobster: Improving Knowledge of the Juvenile Life History of <i>Panulirus cygnus<i/> (2021)."
+tags: [phd-alumni]
 image:
   feature: 
   teaser: square-michael-brooker-profile.png
