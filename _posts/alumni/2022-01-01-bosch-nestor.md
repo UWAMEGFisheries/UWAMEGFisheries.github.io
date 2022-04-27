@@ -3,7 +3,7 @@ layout: article
 title: "Nestor Bosch"
 categories: phd-alumni
 tags: [phd-alumni]
-excerpt: "Changes in functional diversity of reef fishes within an ocean warming hotspot: implications for temperate reef resilience (2021)"
+excerpt: "Changes in functional diversity of reef fishes within an ocean warming hotspot: implications for temperate reef resilience (2022)"
 image:
   feature: 
   teaser: square-nestor-bosch-profile.png
