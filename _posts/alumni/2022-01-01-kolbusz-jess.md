@@ -3,7 +3,7 @@ layout: article
 title: "Jess Kolbusz"
 categories: phd-alumni
 tags: [phd-alumni]
-excerpt: "The influence of water movements on the settlement of the Western Rock Lobster (<i>Panulirus cygnus</i>) throughout the fishery"
+excerpt: "The influence of water movements on the settlement of the Western Rock Lobster (<i>Panulirus cygnus</i>) throughout the fishery (2021)"
 image:
   feature: 
   teaser: square-jess-kolbusz-profile.png
