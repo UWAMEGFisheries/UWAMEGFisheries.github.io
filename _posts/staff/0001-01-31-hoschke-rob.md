@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Research Assistant"
 image:
   feature: 
-  teaser: rob-hoschke.png
-  thumb: rob-hoschke.png
+  teaser: square-rob-hoschke-profile.png
+  thumb: square-rob-hoschke-profile.png
 ---
 ## Role
-<img src='/images/rob-hoschke.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-rob-hoschke-profile.png' align='right' width="350" hspace="20" vspace="10">
 Exploring professional fishers’ local ecological knowledge of marine environments in Western Australia.
 
 ## About me
