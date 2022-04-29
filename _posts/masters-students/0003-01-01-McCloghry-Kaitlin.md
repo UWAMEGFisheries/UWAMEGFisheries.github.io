@@ -6,11 +6,11 @@ tags: [masters-students]
 excerpt: ""
 image:
   feature: 
-  teaser: square-kaitlin-mccloghry-profile.png
-  thumb: square-kaitlin-mccloghry-profile.png
+  teaser: square-kaitlin-mccloghry-profile.jpg
+  thumb: square-kaitlin-mccloghry-profile.jpg
 ---
 ## Post-puerulus Panulirus cygnus detection and preference for Amphibolis antarctica at varying structural densities
-<img src='/images/square-kaitlin-mccloghry-profile.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-kaitlin-mccloghry-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 
 The Western Rock Lobster (Panulirus cygnus) is a highly important species endemic to the coast of Western Australia. The Western Rock Lobster fishery is Australia's largest single-species fishery, generating $400 million per annum. With such a complex and spatially segregated life cycle, it is important to understand the needs of the juvenile lobsters in terms of habitat preferences, particularly those used in critical life-history stages such as settlement, to ensure the continued management of the species and the fishery into the future.
 
