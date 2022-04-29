@@ -27,4 +27,4 @@ I grew up in Sydney and graduated from Macquarie University in 2020 with a Bache
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009
 
-<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="23272037@student.uwa.edu.au"></a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="23272037@student.uwa.edu.au"></a><br> 23272037@student.uwa.edu.au
