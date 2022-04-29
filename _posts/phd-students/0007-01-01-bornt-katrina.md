@@ -6,11 +6,11 @@ tags: [phd-students]
 excerpt: "Plastic contamination in commercially important decapod crustaceans"
 image:
   feature: 
-  teaser: square-katrina-bornt-profile.jpg
-  thumb: square-katrina-bornt-profile.jpg
+  teaser: square-kat-bornt-profile.jpg
+  thumb: square-kat-bornt-profile.jpg
 ---
 ## Plastic contamination in commercially important decapod crustaceans
-<img src='/images/square-katrina-bornt-profile.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-kat-bornt-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 The rise in plastic production and difficulties of managing waste both on land and at sea contributes to the unprecedented amount of plastic debris found in our oceans today. Contributions from fisheries and impacts on commercially significant marine biota remains undocumented in Western Australia (WA).
 
 My research aims to investigate the plastics used and lost by the iconic western rock lobster commercial fishery and identify an appropriate method for analysing plastics/chemicals ingested by Panulirus cygnus and apply to other commercially important decapods in WA.
