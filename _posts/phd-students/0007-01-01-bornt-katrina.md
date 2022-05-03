@@ -20,7 +20,7 @@ My research aims to investigate the plastics used and lost by the iconic western
 I’ve spent most of my life in WA, growing up on a farm north of Perth after moving there as a child from the US. I studied marine science at UWA and spent my Honours year in 2013 looking into the response targeted fish species have to long-term protection from fishing at the Abrolhos. I have since been working as a secondary school teacher and started a PhD in 2021 that combines my interests of fisheries science and plastic pollution. 
 
 # Supervisors
-[Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), Dr. Renae Hovey, Dr Simon de Lestand, Dr Jason Howe, Dr Kathryn Linge
+[Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), Dr. Renae Hovey, Dr Simon de Lestang, Dr Jason Howe, Dr Kathryn Linge
 
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
