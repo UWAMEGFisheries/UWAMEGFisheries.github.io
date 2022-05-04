@@ -21,4 +21,4 @@ I completed my Bachelor of science in Geology and Marine Science at UWA in 2017.
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009
 
-<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:rob.hoschke@uwa.edu.au"> brooke.gibbons@uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:rob.hoschke@uwa.edu.au"> rob.hoschke@uwa.edu.au</a><br>
