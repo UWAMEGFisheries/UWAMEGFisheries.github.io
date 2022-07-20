@@ -2,8 +2,8 @@
 layout: article
 title: "Workflow for Fish Imagery Annotation"
 categories: research
+excerpt: "Videos showing highlights from stereo-BRUV deployments in commonwealth and state marine parks around Western Australia"
 tags: [research]
-excerpt: "Over the past few years we have been striving to improve our workflow for fish imagery annotation. We would like to introduce two initiatives that we have developed that will help to optimise your workflow."
 image:
   feature: 
   teaser: square-steve-bruv.png
