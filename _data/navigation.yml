@@ -12,10 +12,10 @@
   url: students
   excerpt: "Current PhD candidates and postgraduate students"
   image: 5x8_Jon.png
-- title: "Alumni"
-  url: alumni
-  excerpt: "Past members"
-  image: 5x8_Julia.png
+#- title: "Alumni"
+#  url: alumni
+#  excerpt: "Past members"
+#  image: 5x8_Julia.png
 - title: "Adjuncts"
   url: adjuncts
   excerpt: "Current Adjuncts"
