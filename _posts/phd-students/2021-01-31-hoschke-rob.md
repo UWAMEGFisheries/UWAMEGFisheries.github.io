@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Rob Hoschke"
-categories: staff
-tags: [staff]
-excerpt: "Research Assistant"
+categories: phd-students
+tags: [phd-students]
+excerpt: "Exploring commercial fishers’ knowledge of the marine environment"
 image:
   feature: 
   teaser: square-rob-hoschke-profile.png
