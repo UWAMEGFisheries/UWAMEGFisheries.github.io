@@ -1,24 +1,25 @@
 ---
 layout: article
-title: "Global data synthesis"
+title: "GlobalArchive workflows for fish image annotation"
 categories: research
 tags: [research]
-excerpt: "We have devised and implemented cloud infrastructure to collate and synthesise global marine ecological data."
+excerpt: "Over the past few years we have been striving to improve our workflow for fish imagery annotation."
 image:
   feature: 
   teaser: square-ga.png
   thumb: square-ga.png
 ---
 
-To all fish imagery annotation practitioners,
-
 Over the past few years we have been striving to improve our workflow for fish imagery annotation. We would like to introduce two initiatives that we have developed that will help to optimise your workflow:
+
+<img src='/images/globalarchive-screen.png' align='centre' width="500" hspace="10" vspace="10">
 
 **[GlobalArchive](https://globalarchive.org/)**, an online portal for archiving, sharing and synthesising fish imagery annotation 
 
 and 
 
-**[CheckEM](https://globalarchive.shinyapps.io/checkem/)**, a web app to perform standard quality control checks on fish imagery annotation.
+<img src='/images/checkem-screen.png' align='centre' width="500" hspace="10" vspace="10">
+**[CheckEM](https://marine-ecology.shinyapps.io/CheckEM/)**, a web app to perform standard quality control checks on fish imagery annotation.
 
 **GlobalArchive** has been adopted by multiple management and research agencies in Australia as a repository and database for their fish imagery annotation (e.g. [Parks Australia](https://parksaustralia.gov.au/marine/) and the [National Environmental Science Program](https://www.nespmarine.edu.au/)), to build towards making this data is **[Findable, Accessible, Interoperable and Reproducible](https://ardc.edu.au/collaborations/fair-principles/)**.
 
