@@ -19,6 +19,7 @@ Over the past few years we have been striving to improve our workflow for fish i
 and 
 
 <img src='/images/checkem-screen.png' align='centre' width="500" hspace="10" vspace="10">
+
 **[CheckEM](https://marine-ecology.shinyapps.io/CheckEM/)**, a web app to perform standard quality control checks on fish imagery annotation.
 
 **GlobalArchive** has been adopted by multiple management and research agencies in Australia as a repository and database for their fish imagery annotation (e.g. [Parks Australia](https://parksaustralia.gov.au/marine/) and the [National Environmental Science Program](https://www.nespmarine.edu.au/)), to build towards making this data is **[Findable, Accessible, Interoperable and Reproducible](https://ardc.edu.au/collaborations/fair-principles/)**.
