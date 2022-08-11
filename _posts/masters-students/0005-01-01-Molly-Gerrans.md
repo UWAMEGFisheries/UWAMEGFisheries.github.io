@@ -27,4 +27,4 @@ I grew up in Perth and spend most of my spare time swimming, snorkelling, surfin
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009
 
-<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="22731303@student.uwa.edu.au"></a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="22731303@student.uwa.edu.au"></a>22731303@student.uwa.edu.au<br>
