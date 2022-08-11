@@ -6,11 +6,11 @@ tags: [masters-students]
 excerpt: "Ecological associations of fish assemblages within National Park Zones in Abrolhos Marine Park"
 image:
   feature: 
-  teaser: square--profile.png
-  thumb: square--profile.png
+  teaser: square-molly-gerrans-profile.jpg
+  thumb: square-molly-gerrans-profile.jpg
 ---
 ## Ecological associations of fish assemblages within National Park Zones in Abrolhos Marine Park
-<img src='/images/.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-molly-gerrans-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 
 The Abrolhos Marine Park is situated in Commonwealth waters; adjacent to the Houtman Abrolhos Islands in Western Australia. The marine park supports a unique mixing of tropical and temperate species in reference to its location along the Western Australian coastline. Warmer tropical waters from the Leeuwin Current mix with cooler waters from lower latitudes, increasing the diversity of fish species and habitats. However, despite the high marine biodiversity of the area, there is limited information on the benthic habitat and fish assemblages and the possible associations between these fish species and their habitats in mesophotic areas in the Abrolhos Marine Park. Strong fish-habitat associations can aid in the identification of  important metrics to monitor the conservation of species and the management of the NPZs. As part of the Southwest Marine Park, the Abrolhos Marine Park was recently established in 2018. This project demonstrates the first Baited Remote Underwater stereo-Video (stereo-BRUV) analysis of this park zone, presenting a preliminary observational study to establish fish assemblages and habitat distributions. 
 
