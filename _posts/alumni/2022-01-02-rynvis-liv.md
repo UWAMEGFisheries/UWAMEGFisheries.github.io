@@ -1,15 +1,15 @@
 ---
 layout: article
 title: "Liv Rynvis"
-categories: masters-students
-tags: [masters-students]
+categories: masters-alumni
+tags: [masters-alumni]
 excerpt: ""
 image:
   feature: 
   teaser: square-liv-rynvis-profile.jpg
   thumb: square-liv-rynvis-profile.jpg
 ---
-## Measuring the Adoption of Release Survival Strategies for Recreationally Caught Demersal Fish
+## Measuring the Adoption of Release Survival Strategies for Recreationally Caught Demersal Fish (2022)
 <img src='/images/square-liv-rynvis-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 The West Coast Demersal Scalefish Fishery (WCDSF) is a West Australian fishery which includes highly prized species accessed by recreational, charter and commercial sectors. Overfishing within this resource has occurred across many years and over the last decade management measures to promote recovery of the demersal fish stocks has been a priority. Recent stock assessments have revealed further management actions are required in order to safeguard the sustainability of species targeted within this fishery, which are still currently under too much pressure from fishing and the associated problem of post-catch mortality. 
 
