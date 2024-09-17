@@ -3,7 +3,7 @@ layout: article
 title: "Kaitlin McCloghry"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: ""
+excerpt: "Post-puerulus Panulirus cygnus detection and preference for Amphibolis antarctica at varying structural densities (2022)"
 image:
   feature: 
   teaser: square-kaitlin-mccloghry-profile.jpg
