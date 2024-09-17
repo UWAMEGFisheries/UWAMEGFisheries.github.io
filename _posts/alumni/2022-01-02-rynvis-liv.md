@@ -3,7 +3,7 @@ layout: article
 title: "Liv Rynvis"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: ""
+excerpt: "Measuring the Adoption of Release Survival Strategies for Recreationally Caught Demersal Fish (2022)"
 image:
   feature: 
   teaser: square-liv-rynvis-profile.jpg
