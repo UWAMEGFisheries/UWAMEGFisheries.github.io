@@ -3,7 +3,7 @@ layout: article
 title: "Brooke Gibbons"
 categories: staff
 tags: [staff]
-excerpt: "Senior Research Officer"
+excerpt: "Web Developer (Marine Spatial Ecology)"
 image:
   feature: 
   teaser: brooke-gibbons.png
