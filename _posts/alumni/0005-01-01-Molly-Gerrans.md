@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Molly Gerrans"
-categories: masters-students
-tags: [masters-students]
-excerpt: "Ecological associations of fish assemblages within National Park Zones in Abrolhos Marine Park"
+categories: masters-alumni
+tags: [masters-alumni]
+excerpt: "Ecological associations of fish assemblages within National Park Zones in Abrolhos Marine Park (2022)"
 image:
   feature: 
   teaser: square-molly-gerrans-profile.jpg
