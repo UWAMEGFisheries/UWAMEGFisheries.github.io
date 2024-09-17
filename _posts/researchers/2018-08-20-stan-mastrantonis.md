@@ -21,9 +21,15 @@ I am a geoscientist interested in modelling, mapping and monitoring Earth’s sy
 
 ## Teaching 
 
+[ENVT4408 GIS Programming](https://handbooks.uwa.edu.au/unitdetails?code=ENVT4408 "ENVT4408 GIS Programming")
+
+[ENVT5566 Advanced Spatial and Environmental Modelling](https://handbooks.uwa.edu.au/unitdetails?code=ENVT5566 "ENVT5566 Advanced Spatial and Environmental Modelling")
+
+[ENVT4409 Remote Sensing of the Environment](https://handbooks.uwa.edu.au/unitdetails?code=ENVT4409 "Remote Sensing of the Environment")
+
 ## Contact
-<img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
-School of Biological Sciences (M470)<br>
+<img src='/images/icons/building-regular.svg' width="15px"> Geography & Geology Building <br>
+UWA School of Agriculture and Environment (M089)<br>
 35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:stanley.mastrantonis@uwa.edu.au"> stanley.mastrantonis@uwa.edu.au</a><br>
