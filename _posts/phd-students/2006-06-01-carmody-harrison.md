@@ -27,4 +27,4 @@ School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009
 
 <img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:harrison.carmody@research.uwa.edu.au"> harrison.carmody@research.uwa.edu.au</a><br>
-<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="(https://www.researchgate.net/profile/Harrison-Carmody)"> ResearchGate</a><br>
+<img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Harrison-Carmody"> ResearchGate</a><br>
