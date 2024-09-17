@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Research Officer"
 image:
   feature: 
-  teaser: McLennan_profile_square.png
-  thumb: McLennan_profile_square.png
+  teaser: McLennan_profile_square.jpg
+  thumb: McLennan_profile_square.jpg
 ---
 ## Role
-<img src='/images/McLennan_profile_square.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/McLennan_profile_square.jpg' align='right' width="350" hspace="20" vspace="10">
 As a research officer my duties include boat-based fieldwork deploying stereo-camera systems, training staff and collaborators in sampling techniques, and video annotation for fish and habitat assemblages.
 
 ## About me
