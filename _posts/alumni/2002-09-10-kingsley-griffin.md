@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Kingsley Griffin"
-categories: researchers
-tags: [phd-students]
+categories: staff-alumni
+tags: [staff-alumni]
 excerpt: "Postdoctoral researcher"
 image:
   feature: 
