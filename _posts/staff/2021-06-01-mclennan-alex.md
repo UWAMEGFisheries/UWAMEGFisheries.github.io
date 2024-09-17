@@ -20,7 +20,7 @@ Growing up in Perth, Australia it’s natural to be attracted to the marine envi
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009
 
-<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:alex.mclennan@uwa.edu.au"> brooke.gibbons@uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:alex.mclennan@uwa.edu.au"> alex.mclennan@uwa.edu.au</a><br>
 <img src='/images/icons/google-brands.svg' width="15px"> <a href="https://scholar.google.com.au/citations?user=Iv8viA4AAAAJ&hl=en&oi=sra">Google Scholar</a><br>
 <img src='/images/icons/researchgate-brands.svg' width="15px"> <a href="https://www.researchgate.net/profile/Alex-Mclennan-3"> ResearchGate</a><br>
 
