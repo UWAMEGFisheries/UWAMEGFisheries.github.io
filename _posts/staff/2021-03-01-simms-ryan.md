@@ -5,9 +5,9 @@ categories: staff
 tags: [staff]
 excerpt: "Research Assistant"
 image:
-  feature: ryan-simms.png 
+  feature:  
   teaser: ryan-simms.png
-  thumb: 
+  thumb: ryan-simms.png
 ---
 ## Role
 <img src='/images/ryan-simms.png' align='right' width="350" hspace="20" vspace="10">
