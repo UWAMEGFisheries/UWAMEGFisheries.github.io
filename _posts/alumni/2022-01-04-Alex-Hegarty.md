@@ -1,9 +1,9 @@
 ---
 layout: article
 title: "Alex Hegarty"
-categories: masters-students
-tags: [masters-students]
-excerpt: ""
+categories: masters-alumni
+tags: [masters-alumni]
+excerpt: "Shark Eco-Barriers: A non-market valuation of eco-barriers and investigation of Perth beach-goers attitudes and awareness of shark attack management options (2022)"
 image:
   feature: 
   teaser: square-alex-hegarty-profile.jpg
