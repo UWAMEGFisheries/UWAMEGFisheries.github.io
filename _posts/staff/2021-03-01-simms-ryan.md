@@ -21,5 +21,5 @@ I grew up in rural NSW and completed my Bachelor of Marine Biology at the Univer
 School of Biological Sciences (M470)<br>
 35 Stirling Highway, Crawley WA 6009
 
-<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:ryan.simms@uwa.edu.au"> brooke.gibbons@uwa.edu.au</a><br>
+<img src='/images/icons/envelope-regular.svg' width="15px"> <a href="mailto:ryan.simms@uwa.edu.au"> ryan.simms@uwa.edu.au</a><br>
 
