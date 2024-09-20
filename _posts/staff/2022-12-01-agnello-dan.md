@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Research Assistant"
 image:
   feature: 
-  teaser: Agnello_profile_square.jpg
-  thumb: Agnello_profile_square.jpg
+  teaser: Agnello_profile_square.JPG
+  thumb: Agnello_profile_square.JPG
 ---
 ## Role
-<img src='/images/Agnello_profile_square.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/Agnello_profile_square.JPG' align='right' width="350" hspace="20" vspace="10">
 My role within the lab is to conduct video analysis on both tropical and temperate marine assemblages, while also aiding in the preparation, calibration and deployment of BOSS and BRUV systems for fieldwork. 
 
 ## About me
