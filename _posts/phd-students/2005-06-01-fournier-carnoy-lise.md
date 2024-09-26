@@ -21,7 +21,7 @@ I am French but grew up in Hong Kong and New York City. I then fleed big cities 
 
 ## Supervisors
 
-[Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), [Dr. Matthew Navarro](https://marineecology.io//researchers/matthew-navarro/), [Dr. Jordan Goetze](https://staffportal.curtin.edu.au/staff/profile/view/jordan-goetze-f48a9963/), [Dr. Jenn Lavers](https://research-repository.uwa.edu.au/en/persons/jennifer-lavers)
+[Dr. Tim Langlois](https://uwamegfisheries.github.io/researchers/tim-langlois/ "Tim Langlois"), [Dr. Matthew Navarro](https://marineecology.io//researchers/matthew-navarro/), [Dr. Jordan Goetze](https://staffportal.curtin.edu.au/staff/profile/view/jordan-goetze-f48a9963/) & Dr. Jenn Lavers
 
 ## Contact
 <img src='/images/icons/building-regular.svg' width="15px"> Indian Ocean Marine Research Centre <br>
