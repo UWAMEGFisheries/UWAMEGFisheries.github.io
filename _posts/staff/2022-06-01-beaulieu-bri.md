@@ -6,11 +6,11 @@ tags: [staff]
 excerpt: "Research Assistant"
 image:
   feature: 
-  teaser: Beaulieu_profile_square.jpg
-  thumb: Beaulieu_profile_square.jpg
+  teaser: Beaulieu_profile_square.png
+  thumb: Beaulieu_profile_square.png
 ---
 ## Role
-<img src='/images/Beaulieu_profile_square.jpg' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/Beaulieu_profile_square.png' align='right' width="350" hspace="20" vspace="10">
 
 My primary roles in the UWA Marine Ecology Group include video analysis on both tropical and temperate marine systems, conducting fieldwork deploying stereo-camera systems, and fish identification.
 
