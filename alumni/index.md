@@ -20,7 +20,7 @@ image:
 <br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 ### Masters Completions
 <div class="tiles">
 {% for post in site.categories.masters-alumni %}
