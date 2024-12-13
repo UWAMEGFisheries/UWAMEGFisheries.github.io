@@ -3,13 +3,13 @@ layout: article
 title: "Katrina Bornt"
 categories: phd-alumni
 tags: [phd-alumni]
-excerpt: "Pathways of Plastic Contamination for Fisheries in Western Australia"
+excerpt: "Pathways of Plastic Contamination for Fisheries in Western Australia (2025)"
 image:
   feature: 
   teaser: square-kat-bornt-profile.jpg
   thumb: square-kat-bornt-profile.jpg
 ---
-## Pathways of Plastic Contamination for Fisheries in Western Australia
+## Pathways of Plastic Contamination for Fisheries in Western Australia (2025)
 <img src='/images/square-kat-bornt-profile.jpg' align='right' width="350" hspace="20" vspace="10">
 The rise in plastic production and difficulties of managing waste both on land and at sea contributes to the unprecedented amount of plastic debris found in our oceans today. Contributions from fisheries and impacts on commercially significant marine biota remains undocumented in Western Australia (WA).
 
