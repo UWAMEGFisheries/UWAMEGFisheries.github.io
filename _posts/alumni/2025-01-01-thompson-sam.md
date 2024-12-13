@@ -3,7 +3,7 @@ layout: article
 title: "Sam Thompson"
 categories: phd-alumni
 tags: [phd-alumni]
-excerpt: "Fish community assessments with eDNA metabarcoding and stereo-video in Indian Ocean marine environments"
+excerpt: "Fish community assessments with eDNA metabarcoding and stereo-video in Indian Ocean marine environments (2025)"
 image:
   feature: 
   teaser: square-sam-thompson-profile.png
