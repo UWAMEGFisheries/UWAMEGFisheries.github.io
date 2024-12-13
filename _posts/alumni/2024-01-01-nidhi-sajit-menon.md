@@ -3,14 +3,14 @@ layout: article
 title: "Nidhi Menon"
 categories: masters-alumni
 tags: [masters-alumni]
-excerpt: "Big fish in a warming pond: increase in abundance of large-bodied fishery species within Sanctuary Zones and potential assemblage warming within a south-western Australian marine park"
+excerpt: "Big fish in a warming pond: increase in abundance of large-bodied fishery species within Sanctuary Zones and potential assemblage warming within a south-western Australian marine park (2024)"
 permalink: /students/nidhi-menon
 image:
   feature: 
   teaser: square-nidhi-sajit-menon-profile.png
   thumb: square-nidhi-sajit-menon-profile.png
 ---
-## Big fish in a warming pond: increase in abundance of large-bodied fishery species within Sanctuary Zones and potential assemblage warming within a south-western Australian marine park
+## Big fish in a warming pond: increase in abundance of large-bodied fishery species within Sanctuary Zones and potential assemblage warming within a south-western Australian marine park (2024)
 <img src='/images/square-nidhi-sajit-menon-profile.png' align='right' width="350" hspace="20" vspace="10">
 
 Assessing the effects of Marine Parks on local ecosystems is essential to better inform future conservation strategies. The Ngari Capes Marine Park (NCMP), situated in an ecologically significant region of south-western Australia, was zoned in 2019 by the Western Australian government’s Department of Biodiversity, Conservation and Attractions (DBCA) into general use, special purpose and “no-take” sanctuary zones, which dictate what type of activity is permitted within these zones. In the years following this zonation, regular monitoring has taken place using BRUVs or Baited Remote Underwater Video Systems that allow us to quantify fish assemblages, particularly large target species that may be susceptible to recreational and commercial fishing outside sanctuary zones. My Masters project aims to evaluate the differences between fish communities in fished and unfished areas of the NCMP over a six-year period, focusing on indicator species larger than the size of maturity or minimum legal size. Such efforts are vital to deepen our understanding of the benefits provided by Marine Parks to important ecosystems and improve marine spatial planning in the future.
