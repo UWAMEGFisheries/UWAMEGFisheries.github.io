@@ -10,7 +10,7 @@ image:
   thumb: square-annika-leunig.png
 ---
 ## Role
-<img src='/images/square-claude-spencer.png' align='right' width="350" hspace="20" vspace="10">
+<img src='/images/square-annika-leunig.png' align='right' width="350" hspace="20" vspace="10">
 My role within the lab is to conduct video analysis on both tropical and temperate marine assemblages, while also aiding in the preparation, calibration and deployment of BOSS and BRUV systems for fieldwork.
 
 ## About me
