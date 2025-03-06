@@ -17,7 +17,7 @@ image:
 ## About Me
 I grew up in Perth and completed my Bachelor of Science majoring in Marine Biology at UWA in 2024. During my final semester of my undergraduate degree, I started volunteering at the UWA Marine Ecology Group Fisheries research lab and I am now currently completing a Master of Marine Biology at UWA. I have the pleasure of currently being supervised by Dr. Matthew Navarro and Dr. Jordan Goetze for my dissertation which is looking to evaluate the efficacy of Australian MPAs in terms of social and ecological criteria. I am currently working at the UWA Marine Ecology Group Fisheries research lab as a research assistant for Dr. Tim Langlois.
 ## Supervisors
-[Dr. Matthew Navarro](https://marineecology.io//researchers/matthew-navarro/ "Matthew Navarro")
+[Dr. Matthew Navarro](https://marineecology.io//researchers/matthew-navarro/ "Matthew Navarro"), 
 [Dr Jordan Goetze](https://staffportal.curtin.edu.au/staff/profile/view/jordan-goetze-f48a9963/ "Jordan Goetze") 
 
 
