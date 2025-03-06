@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Gabrielle Cummins"
-categories: alumni
-tags: [alumni]
+categories: phd-alumni
+tags: [phd-alumni]
 excerpt: "Biodiversity and societal benefits of restricted access areas (2025)"
 image:
   feature: 
