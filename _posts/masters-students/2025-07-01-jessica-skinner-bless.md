@@ -16,7 +16,9 @@ image:
 This study develops allometric relationships for Pink Snapper (Chrysophrys auratus) using morphometric traits (mouth to fork of tail, head height, eye height, eye to side fin, eye to bottom fin, eye to back fin) to estimate total length in Geographe and South-west Corner Marine Parks. Models are derived from field data collected in 2024 and compared across parks to support fishery management and conservation.
 
 ## About Me
-My name is Jessica Skinner-Bless and I grew up in Heidelberg, Germany, and graduated in 2023 with two First State Examinations in Art, Educational Studies, English, and Geography from Julius-Maximilians and Ruprecht-Karls Universities. I also have a Bachelor's in Educational Studies from Julius-Maximilians University and an Honours Bachelor's in Marketing and Management from the University of Wales in the UK. Since 2024, I am pursuing a Master's by coursework and dissertation at the University of Western Australia. My dissertation focuses on allometric relationships for morphometric features of Pink Snapper, and I have the pleasure of being supervised by Dr. Tim Langlois and Dr. James Kemp.## Supervisors
+My name is Jessica Skinner-Bless and I grew up in Heidelberg, Germany, and graduated in 2023 with two First State Examinations in Art, Educational Studies, English, and Geography from Julius-Maximilians and Ruprecht-Karls Universities. I also have a Bachelor's in Educational Studies from Julius-Maximilians University and an Honours Bachelor's in Marketing and Management from the University of Wales in the UK. Since 2024, I am pursuing a Master's by coursework and dissertation at the University of Western Australia. My dissertation focuses on allometric relationships for morphometric features of Pink Snapper, and I have the pleasure of being supervised by Dr. Tim Langlois and Dr. James Kemp.
+
+## Supervisors
 [Dr. Tim Langlois](https://marineecology.io/researchers/tim-langlois/ "Tim Langlois"), 
 [Dr James Kemp](https://marineecology.io//researchers/james-kemp/ "James Kemp") 
 
