@@ -11,7 +11,7 @@ image:
 ---
 ## Role
 <img src='/images/ryan-simms.png' align='right' width="350" hspace="20" vspace="10">
-My main roles in the UWA Marine Ecology Group research lab include video analysis, conducting fieldwork and fish identification.
+My main roles in the UWA Marine Ecology Group research lab include video analysis and species identification, planning and conducting fieldwork, and media content creation.
 
 ## About me
 I grew up in rural NSW and completed my Bachelor of Marine Biology at the University of Technology, Sydney. I went on to work with the Great Barrier Reef Marine Park Authority on their Crown of Thorns Starfish control program. I was part of this project for 6 years, during which I was able to explore the length of the Great Barrier Reef and witness it’s vastness and variety of marine flora and fauna. I moved to Perth in early 2024 in the hopes to discover what the Western coast of Australia had to offer. I had the pleasure of joining the Marine Ecology Group at UWA, where I now work as a research assistant analysing videos of underwater communities and assisting in fieldwork.
