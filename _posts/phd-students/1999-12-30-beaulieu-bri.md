@@ -9,12 +9,8 @@ image:
   teaser: bri-beaulieu-profile-square.png
   thumb: bri-beaulieu-profile-square.png
 ---
-##  Title
-
-Ecotoxicology of filter-feeding megafauna in the Indian Ocean
+## Ecotoxicology of filter-feeding megafauna in the Indian Ocean
 <img src='/images/bri-beaulieu-profile-square.png' align='right' width="350" hspace="20" vspace="10">
-
-Abstract
 
 Whale sharks (Rhincodon typus) and reef manta rays (Mobula alfredi) are facing population declines in response to increasing anthropogenic threats including vessel strikes, unregulated tourism, plastic pollution, climate change, and contamination from toxins. There are now major concerns for the risk pollutants such as persistent organic pollutants (POPs), often referred to as “forever chemicals”, and emerging contaminants (ECs), such as phthalate esters, pose to the health of marine organisms, the environment, and humans. Toxins accumulate on/in plastic debris and at the surface of the water column where both whale sharks and reef manta rays filter-feed, meaning they may be especially susceptible to this type of pollution. At Ningaloo Reef in Western Australia, aggregations of these sharks and rays provide a unique opportunity to investigate the threat of pollutant contamination to these species. This research utilizes a multi-disciplinary approach to assess POP and EC contamination loads and subsequent health effects in both whale sharks and reef manta rays. Findings will provide the first baseline data on contamination loads in populations in the eastern Indian Ocean, identify ecological drivers of exposure, and deliver insights into the health impacts of toxins to these iconic keystone species.
 
