@@ -11,7 +11,7 @@ image:
 ---
 ## Role
 <img src='/images/square-annika-leunig.png' align='right' width="350" hspace="20" vspace="10">
-My role within the lab is to conduct video analysis on both tropical and temperate marine assemblages, while also aiding in the preparation, calibration and deployment of BOSS and BRUV systems for fieldwork.
+My primary role within the lab is to produce spatial maps and figures for marine park reports, working with oceanographic and habitat data in R. I also help with video analysis on both tropical and temperate marine assemblages, and assist in the preparation, calibration, and deployment of BOSS and BRUV systems for fieldwork.
 
 ## About me
 I grew up in Perth and completed my Bachelor of Science majoring in Marine Biology at UWA in 2024. During my final semester of my undergraduate degree, I started volunteering at the UWA Marine Ecology Group Fisheries research lab and I am now currently completing a Master of Marine Biology at UWA. I have the pleasure of currently being supervised by Dr. Matthew Navarro and Dr. Jordan Goetze for my dissertation which is looking to evaluate the efficacy of Australian MPAs in terms of social and ecological criteria. I am currently working at the UWA Marine Ecology Group Fisheries research lab as a research assistant for Dr. Tim Langlois.
