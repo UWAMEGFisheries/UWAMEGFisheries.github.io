@@ -21,11 +21,3 @@ image:
 	{% include researchers-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-<div><h2 class="post-title">dog</h2></div>
-<div class="tiles">
-{% for post in site.categories.dog %}
-	{% include researchers-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
