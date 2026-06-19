@@ -2,7 +2,7 @@
 layout: article
 title: "Tim Langlois"
 categories: researchers
-excerpt: "Research Fellow"
+excerpt: "Associate Professor"
 tags: [researcher]
 image:
   feature: 
