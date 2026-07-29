@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Lacjie Kohlen"
+title: "Lachie Kohlen"
 categories: masters-students
 tags: [masters-students]
 excerpt: "Growth dynamics of Chaceon albus from 25 years of Tag-Recapture Data"
